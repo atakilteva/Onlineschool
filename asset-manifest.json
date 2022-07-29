@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Onlineschool/static/css/main.78183aa7.css",
+    "main.js": "/Onlineschool/static/js/main.a2ff73c8.js",
+    "static/media/back.webp": "/Onlineschool/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/messi.png": "/Onlineschool/static/media/messi.dbfd1ba1e9199d4d00cd.png",
+    "static/media/awrapper.webp": "/Onlineschool/static/media/awrapper.031ce77a398171427673.webp",
+    "index.html": "/Onlineschool/index.html",
+    "main.78183aa7.css.map": "/Onlineschool/static/css/main.78183aa7.css.map",
+    "main.a2ff73c8.js.map": "/Onlineschool/static/js/main.a2ff73c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78183aa7.css",
+    "static/js/main.a2ff73c8.js"
+  ]
+}
